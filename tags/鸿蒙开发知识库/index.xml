@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>鸿蒙开发知识库 on 南京派米智能科技有限公司</title>
-    <link>pami-ai.com/tags/%E9%B8%BF%E8%92%99%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%BA%93/</link>
+    <link>https://www.pami-ai.com/tags/%E9%B8%BF%E8%92%99%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%BA%93/</link>
     <description>Recent content in 鸿蒙开发知识库 on 南京派米智能科技有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="pami-ai.com/tags/%E9%B8%BF%E8%92%99%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pami-ai.com/tags/%E9%B8%BF%E8%92%99%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>鸿蒙开发知识库</title>
-      <link>pami-ai.com/blog/harmony-knowledge-base/</link>
+      <link>https://www.pami-ai.com/blog/harmony-knowledge-base/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>pami-ai.com/blog/harmony-knowledge-base/</guid>
+      <guid>https://www.pami-ai.com/blog/harmony-knowledge-base/</guid>
       <description>案例介绍 鸿蒙开发知识库是由我公司独立研发，服务于鸿蒙开发教学的多媒体知识库平台。 案例效果 web端： 微信端： 案例介绍 该案例由如下部分组成 鸿蒙开</description>
     </item>
     
