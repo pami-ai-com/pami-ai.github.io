@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>南京派米智能科技有限公司</title>
+    <link>pami-ai.com/</link>
+    <description>Recent content on 南京派米智能科技有限公司</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="pami-ai.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent202211009494.0/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent202211009494.0/</guid>
+      <description>《一种基于深度学习的图像去模糊方法和系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent202211392882.1/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent202211392882.1/</guid>
+      <description>《基于深度学习的视频超分辨率重建方法、系统及介质》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent202310409008.2/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent202310409008.2/</guid>
+      <description>《一种基于示例视频着色的可学习的语义对应方法及装置》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4497062/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4497062/</guid>
+      <description>《基于自适应反向投影深度学习的视频超分辨率方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4551888/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4551888/</guid>
+      <description>《一种基于渐进特征融合的图像去雾方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4552686/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4552686/</guid>
+      <description>《一种基于自监督约束的双尺度图像盲目去噪方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>多媒体知识库</title>
+      <link>pami-ai.com/products/multimedia-knowledge-base/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/multimedia-knowledge-base/</guid>
+      <description>多媒体知识库（文本大模型、多媒体大模型） 主要任务是维护知识库，再结合大模型实现准确的知识获取、理解、分析、总结，最终以文本、图像或视频的形式</description>
+    </item>
+    
+    <item>
+      <title>可控内容生成</title>
+      <link>pami-ai.com/products/controllable-visual-content-generation/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/controllable-visual-content-generation/</guid>
+      <description>可控视觉内容生成（视觉编辑、修复，多模态生成） 可控多媒体内容生成是指根据多种模态（如语音，文字，图像）的参考条件来引导生成一致性的目标内容。</description>
+    </item>
+    
+    <item>
+      <title>视觉增强</title>
+      <link>pami-ai.com/products/visual-enhancement/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/visual-enhancement/</guid>
+      <description>视觉增强（上色、超分辨率、去模糊） 视觉增强是一种通过使用不同的技术和算法来改善或增强图像的质量、清晰度或感知效果的过程。 支撑项目： 国家优秀青</description>
+    </item>
+    
+    <item>
+      <title>视频场景理解</title>
+      <link>pami-ai.com/products/video-scene-understanding/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/video-scene-understanding/</guid>
+      <description>视频场景理解（视频描述，场景分割，异常检测，事件识别） 视频场景理解是指通过分析视频数据，以获取对视频中所呈现的环境、物体、人物和其它元素的深</description>
+    </item>
+    
+    <item>
+      <title>竞赛</title>
+      <link>pami-ai.com/awards/competition1/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/competition1/</guid>
+      <description>第十八届挑战杯竞赛江苏省决赛主体赛 一等奖</description>
+    </item>
+    
+    <item>
+      <title>竞赛</title>
+      <link>pami-ai.com/awards/competition2/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/competition2/</guid>
+      <description>CVPR WorkShop: NTIRE 2023 Challenge on Video Colorization 冠军</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4731713/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4731713/</guid>
+      <description>《一种基于自监督学习的视频盲超分辨率重建方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4814506/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4814506/</guid>
+      <description>《基于成像建横和知识 - - 的盲图像超分辨率重建方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent5243357/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent5243357/</guid>
+      <description>《一种基于条件生成对抗网络的人脸去遮挡方法》</description>
+    </item>
+    
+    <item>
+      <title>多媒体内容检索及推荐</title>
+      <link>pami-ai.com/products/multimedia-content-retrieval-and-recommendation/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/multimedia-content-retrieval-and-recommendation/</guid>
+      <description>多媒体内容检索及推荐（信息检索、推荐系统） 将基于用户兴趣和观看历史来实现个性化视频推荐。通过在边缘设备上分析用户的观看行为和反馈，可以实现更</description>
+    </item>
+    
+    <item>
+      <title>神经网络模型优化</title>
+      <link>pami-ai.com/products/neural-network-model-optimization/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/neural-network-model-optimization/</guid>
+      <description>神经网络模型优化（抗攻击、轻量化、并行） 神经网络模型在实际场景落地时，需要经过优化以保障模型的正确和高效的运行。正确运行需要提升模型的鲁棒性</description>
+    </item>
+    
+    <item>
+      <title>视觉内容理解</title>
+      <link>pami-ai.com/products/visual-content-understanding/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/visual-content-understanding/</guid>
+      <description>视觉内容理解（分类、检测、分割） 从图像和视频中定位目标所在位置、范围及类别的技术。目前的难点在于： 恶劣环境、密集多目标、小目标、低分辨率等复</description>
+    </item>
+    
+    <item>
+      <title>视频姿态估计</title>
+      <link>pami-ai.com/products/video-pose-estimation/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/video-pose-estimation/</guid>
+      <description>视频姿态估计（骨骼点识别、姿态跟踪、3D 姿态估计） 通过计算机视觉算法对视频中“人体”的姿态（关键点，比如头，左手，右脚等）的位置估计，跟踪与</description>
+    </item>
+    
+    <item>
+      <title>行为分析</title>
+      <link>pami-ai.com/products/behavior-analysis/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/behavior-analysis/</guid>
+      <description>行为分析（动作识别，时空动作检测、定位、跟踪） 通过计算机视觉算法对一个或多个摄像头产生的视频流中的行为信息自动进行分析和理解 支撑项目： 国家优</description>
+    </item>
+    
+    <item>
+      <title>关于我们</title>
+      <link>pami-ai.com/about/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/about/</guid>
+      <description>南京派米智能科技有限公司成立于2023年9月21日，是一家由五位高校教授创办的创新型企业。专注于计算机视觉、多媒体信息检索、大数据处理和机器</description>
+    </item>
+    
+    <item>
+      <title>可控人物生成</title>
+      <link>pami-ai.com/blog/controllable-character-generation/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/blog/controllable-character-generation/</guid>
+      <description>案例目标 可控人物生成，由我公司独立研发，可控人物生成，由我公司独立研发的可控内容生成服务，在仅给定一张参考图像，从单个参考图像生成具有各种姿</description>
+    </item>
+    
+    <item>
+      <title>鸿蒙开发知识库</title>
+      <link>pami-ai.com/blog/harmony-knowledge-base/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/blog/harmony-knowledge-base/</guid>
+      <description>案例介绍 鸿蒙开发知识库是由我公司独立研发，服务于鸿蒙开发教学的多媒体知识库平台。 案例效果 web端： 微信端： 案例介绍 该案例由如下部分组成 鸿蒙开</description>
+    </item>
+    
+    <item>
+      <title>雷锋高清修复</title>
+      <link>pami-ai.com/blog/leifeng-hd-repair/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/blog/leifeng-hd-repair/</guid>
+      <description>案例介绍 雷锋高清修复项目，是由我公司利用图像修复技术，实现对雷锋影像去模糊、着色、超分辨率。 雷锋高清修复案例图 图1： 图2：</description>
+    </item>
+    
+    <item>
+      <title>西游记高清修复</title>
+      <link>pami-ai.com/blog/journey-to-the-west-hd/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/blog/journey-to-the-west-hd/</guid>
+      <description>案例介绍： 西游记高清修复项目是由我公司与中央电视台资料馆合作，对1986年版《西游记》进行高清修复。实现影像去模糊，影像超分辨率等功能。 西游</description>
+    </item>
+    
+    <item>
+      <title>联系我们</title>
+      <link>pami-ai.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/contact/</guid>
+      <description>如果您需要更多的交流，或者提出宝贵的意见，请您填写并提交下面的表单。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究方向 on 南京派米智能科技有限公司</title>
+    <link>pami-ai.com/products/</link>
+    <description>Recent content in 研究方向 on 南京派米智能科技有限公司</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 09 May 2024 12:33:45 +1000</lastBuildDate><atom:link href="pami-ai.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>多媒体知识库</title>
+      <link>pami-ai.com/products/multimedia-knowledge-base/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/multimedia-knowledge-base/</guid>
+      <description>多媒体知识库（文本大模型、多媒体大模型） 主要任务是维护知识库，再结合大模型实现准确的知识获取、理解、分析、总结，最终以文本、图像或视频的形式</description>
+    </item>
+    
+    <item>
+      <title>可控内容生成</title>
+      <link>pami-ai.com/products/controllable-visual-content-generation/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/controllable-visual-content-generation/</guid>
+      <description>可控视觉内容生成（视觉编辑、修复，多模态生成） 可控多媒体内容生成是指根据多种模态（如语音，文字，图像）的参考条件来引导生成一致性的目标内容。</description>
+    </item>
+    
+    <item>
+      <title>视觉增强</title>
+      <link>pami-ai.com/products/visual-enhancement/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/visual-enhancement/</guid>
+      <description>视觉增强（上色、超分辨率、去模糊） 视觉增强是一种通过使用不同的技术和算法来改善或增强图像的质量、清晰度或感知效果的过程。 支撑项目： 国家优秀青</description>
+    </item>
+    
+    <item>
+      <title>视频场景理解</title>
+      <link>pami-ai.com/products/video-scene-understanding/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/video-scene-understanding/</guid>
+      <description>视频场景理解（视频描述，场景分割，异常检测，事件识别） 视频场景理解是指通过分析视频数据，以获取对视频中所呈现的环境、物体、人物和其它元素的深</description>
+    </item>
+    
+    <item>
+      <title>多媒体内容检索及推荐</title>
+      <link>pami-ai.com/products/multimedia-content-retrieval-and-recommendation/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/multimedia-content-retrieval-and-recommendation/</guid>
+      <description>多媒体内容检索及推荐（信息检索、推荐系统） 将基于用户兴趣和观看历史来实现个性化视频推荐。通过在边缘设备上分析用户的观看行为和反馈，可以实现更</description>
+    </item>
+    
+    <item>
+      <title>神经网络模型优化</title>
+      <link>pami-ai.com/products/neural-network-model-optimization/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/neural-network-model-optimization/</guid>
+      <description>神经网络模型优化（抗攻击、轻量化、并行） 神经网络模型在实际场景落地时，需要经过优化以保障模型的正确和高效的运行。正确运行需要提升模型的鲁棒性</description>
+    </item>
+    
+    <item>
+      <title>视觉内容理解</title>
+      <link>pami-ai.com/products/visual-content-understanding/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/visual-content-understanding/</guid>
+      <description>视觉内容理解（分类、检测、分割） 从图像和视频中定位目标所在位置、范围及类别的技术。目前的难点在于： 恶劣环境、密集多目标、小目标、低分辨率等复</description>
+    </item>
+    
+    <item>
+      <title>视频姿态估计</title>
+      <link>pami-ai.com/products/video-pose-estimation/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/video-pose-estimation/</guid>
+      <description>视频姿态估计（骨骼点识别、姿态跟踪、3D 姿态估计） 通过计算机视觉算法对视频中“人体”的姿态（关键点，比如头，左手，右脚等）的位置估计，跟踪与</description>
+    </item>
+    
+    <item>
+      <title>行为分析</title>
+      <link>pami-ai.com/products/behavior-analysis/</link>
+      <pubDate>Thu, 09 May 2024 12:33:45 +1000</pubDate>
+      
+      <guid>pami-ai.com/products/behavior-analysis/</guid>
+      <description>行为分析（动作识别，时空动作检测、定位、跟踪） 通过计算机视觉算法对一个或多个摄像头产生的视频流中的行为信息自动进行分析和理解 支撑项目： 国家优</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>创新荣誉 on 南京派米智能科技有限公司</title>
+    <link>pami-ai.com/awards/</link>
+    <description>Recent content in 创新荣誉 on 南京派米智能科技有限公司</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="pami-ai.com/awards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent202211009494.0/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent202211009494.0/</guid>
+      <description>《一种基于深度学习的图像去模糊方法和系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent202211392882.1/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent202211392882.1/</guid>
+      <description>《基于深度学习的视频超分辨率重建方法、系统及介质》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent202310409008.2/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent202310409008.2/</guid>
+      <description>《一种基于示例视频着色的可学习的语义对应方法及装置》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4497062/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4497062/</guid>
+      <description>《基于自适应反向投影深度学习的视频超分辨率方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4551888/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4551888/</guid>
+      <description>《一种基于渐进特征融合的图像去雾方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4552686/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4552686/</guid>
+      <description>《一种基于自监督约束的双尺度图像盲目去噪方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>竞赛</title>
+      <link>pami-ai.com/awards/competition1/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/competition1/</guid>
+      <description>第十八届挑战杯竞赛江苏省决赛主体赛 一等奖</description>
+    </item>
+    
+    <item>
+      <title>竞赛</title>
+      <link>pami-ai.com/awards/competition2/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/competition2/</guid>
+      <description>CVPR WorkShop: NTIRE 2023 Challenge on Video Colorization 冠军</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4731713/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4731713/</guid>
+      <description>《一种基于自监督学习的视频盲超分辨率重建方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent4814506/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent4814506/</guid>
+      <description>《基于成像建横和知识 - - 的盲图像超分辨率重建方法及系统》</description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>pami-ai.com/awards/patent5243357/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/awards/patent5243357/</guid>
+      <description>《一种基于条件生成对抗网络的人脸去遮挡方法》</description>
+    </item>
+    
+  </channel>
+</rss>

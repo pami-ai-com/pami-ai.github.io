@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>应用案例 on 南京派米智能科技有限公司</title>
+    <link>pami-ai.com/tags/%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B/</link>
+    <description>Recent content in 应用案例 on 南京派米智能科技有限公司</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="pami-ai.com/tags/%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>可控人物生成</title>
+      <link>pami-ai.com/blog/controllable-character-generation/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/blog/controllable-character-generation/</guid>
+      <description>案例目标 可控人物生成，由我公司独立研发，可控人物生成，由我公司独立研发的可控内容生成服务，在仅给定一张参考图像，从单个参考图像生成具有各种姿</description>
+    </item>
+    
+    <item>
+      <title>鸿蒙开发知识库</title>
+      <link>pami-ai.com/blog/harmony-knowledge-base/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/blog/harmony-knowledge-base/</guid>
+      <description>案例介绍 鸿蒙开发知识库是由我公司独立研发，服务于鸿蒙开发教学的多媒体知识库平台。 案例效果 web端： 微信端： 案例介绍 该案例由如下部分组成 鸿蒙开</description>
+    </item>
+    
+    <item>
+      <title>雷锋高清修复</title>
+      <link>pami-ai.com/blog/leifeng-hd-repair/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/blog/leifeng-hd-repair/</guid>
+      <description>案例介绍 雷锋高清修复项目，是由我公司利用图像修复技术，实现对雷锋影像去模糊、着色、超分辨率。 雷锋高清修复案例图 图1： 图2：</description>
+    </item>
+    
+    <item>
+      <title>西游记高清修复</title>
+      <link>pami-ai.com/blog/journey-to-the-west-hd/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>pami-ai.com/blog/journey-to-the-west-hd/</guid>
+      <description>案例介绍： 西游记高清修复项目是由我公司与中央电视台资料馆合作，对1986年版《西游记》进行高清修复。实现影像去模糊，影像超分辨率等功能。 西游</description>
+    </item>
+    
+  </channel>
+</rss>

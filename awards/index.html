@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+
+<meta charset="utf-8">
+<title>南京派米智能科技有限公司 | 创新荣誉</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/pami-ai.com/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/pami-ai.com/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/pami-ai.com/favicon-16x16.png'>
+<link rel="manifest" href='/pami-ai.com/site.webmanifest'>
+
+<link href='/css/fa6.min.css' rel="stylesheet" type="text/css">
+
+
+
+
+<link rel="stylesheet" href="/pami-ai.com/css/style.min.77906017340b15ad69f27f2cd27f0833d0e78a75185c356924d7a17bf623e6fd.css" />
+
+
+<link href='/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/css/custom.css'>
+</head>
+
+<body class="flex flex-col min-h-screen">
+  <main class="flex-grow"><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="pami-ai.com/products/">
+                    <span>研究方向</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="pami-ai.com/blog/">
+                    <span>应用案例</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="pami-ai.com/awards/">
+                    <span>创新荣誉</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="pami-ai.com/about/">
+                    <span>关于我们</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="pami-ai.com/contact/">
+                    <span>联系我们</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+            <a href="pami-ai.com"><img alt="PAMI-AI Logo"
+                    class="h-80 mr-3" src="/pami-ai.com/img/logo/logo.svg"></a>
+            <a class='hidden lg:flex' href="pami-ai.com">
+        <span class='text-4xl font-bold'>南京派米智能科技有限公司 </span></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg">
+                
+                <a href="pami-ai.com/products/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    研究方向
+                </a>
+                
+                <a href="pami-ai.com/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    应用案例
+                </a>
+                
+                <a href="pami-ai.com/awards/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    创新荣誉
+                </a>
+                
+                <a href="pami-ai.com/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    关于我们
+                </a>
+                
+                <a href="pami-ai.com/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    联系我们
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="scroll-top rounded-full">
+      <span class="icon-keyboard_arrow_up text-2xl"></span>
+    </div>
+
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="title text-5xl mb-4">创新荣誉</h1>
+        <div class="content py-1"></div>
+          <div id="waterfall" style="width: 100%;">
+   	 
+	</div>
+</div>
+    </div>
+</div>
+
+<script>
+    let currentNumColumns = 0; 
+    let columnHeights = []; 
+    function createColumns(forceUpdate = false) {
+        const container = document.getElementById('waterfall');
+        const columnWidth = 160; 
+        const columnMargin = 10; 
+        const containerWidth = container.clientWidth; 
+        const numColumns = Math.max(2, Math.floor(containerWidth / (columnWidth+2*columnMargin)));
+
+        
+        if (numColumns !== currentNumColumns || forceUpdate) {
+            currentNumColumns = numColumns; 
+            const columns = [];
+            columnHeights = Array(numColumns).fill(0); 
+
+            container.innerHTML = ''; 
+
+            
+            for (let i = 0; i < numColumns; i++) {
+                const column = document.createElement('div');
+                column.classList.add('column');
+                column.style.flex = `0 0 ${columnWidth}px`; 
+                column.style.margin = `0 ${columnMargin / 2}px`; 
+                container.appendChild(column);
+                columns.push(column);
+            }
+
+            
+            items.forEach(item => {
+                const itemElement = document.createElement('div');
+                itemElement.classList.add('item');
+                itemElement.classList.add('transform','hover:-translate-y-1','hover:shadow-md','duration-500');
+                itemElement.innerHTML = item; 
+                
+                const minHeightIndex = columnHeights.indexOf(Math.min(...columnHeights)); 
+                columns[minHeightIndex].appendChild(itemElement);
+                
+                columnHeights[minHeightIndex] += itemElement.offsetHeight;
+            });
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => createColumns(true));
+    window.addEventListener('resize', () => createColumns());
+
+    const items = [
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent202211009494.0.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《一种基于深度学习的图像去模糊方法和系统》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent202211392882.1.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《基于深度学习的视频超分辨率重建方法、系统及介质》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent202310409008.2.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《一种基于示例视频着色的可学习的语义对应方法及装置》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent4497062.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《基于自适应反向投影深度学习的视频超分辨率方法及系统》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent4551888.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《一种基于渐进特征融合的图像去雾方法及系统》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent4552686.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《一种基于自监督约束的双尺度图像盲目去噪方法及系统》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e竞赛\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"竞赛\" \n    src=\"/img/awards/competition1.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e第十八届挑战杯竞赛江苏省决赛主体赛 一等奖\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e竞赛\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"竞赛\" \n    src=\"/img/awards/competition2.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003eCVPR WorkShop: NTIRE 2023 Challenge on Video Colorization 冠军\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent4731713.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《一种基于自监督学习的视频盲超分辨率重建方法及系统》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent4814506.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《基于成像建横和知识 - - 的盲图像超分辨率重建方法及系统》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+	  "\n\n\u003ch2 class=\"text-center text-2xl\"\u003e专利\u003c/h2\u003e\n  \n  \u003cimg id=\"thumb\" class=\"w-full\" alt=\"专利\" \n    src=\"/img/awards/patent5243357.jpg\" /\u003e\n  \n\u003cp class=\"text-justify\"\u003e\u003cp\u003e《一种基于条件生成对抗网络的人脸去遮挡方法》\u003c/p\u003e\n\u003c/p\u003e\n",
+        
+    ];
+</script>
+
+<style>
+ #waterfall {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .column {
+        margin: 0 10px;
+    }
+    .item {
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        width: 100%;  
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+     }
+</style>
+
+
+  </main><footer class="bg-tlgray-100">
+  
+  <script src='/js/clipboard.min.js'></script>
+  <script src='/js/highlight.min.js'></script>
+  <script src='/js/highlightjs-line-numbers.min.js'></script>
+  <script src='/js/sweetalert2.min.js'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
+
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
+  
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      南京派米智能科技有限公司
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:flex-grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="pami-ai.com/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          首页
+          
+        </a>
+        
+        <a href="https://github.com/pami-ai" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          <i class='icon-github text-2xl'></i>
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; 南京派米智能科技有限公司 2024 All Rights Reserved.
+  </div>
+</footer>
+</body>
+
+</html>
