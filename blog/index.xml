@@ -8,12 +8,12 @@
     <language>zh</language>
     <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pami-ai.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>可控人物生成</title>
+      <title>虚拟试衣模特生成 </title>
       <link>https://www.pami-ai.com/blog/controllable-character-generation/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.pami-ai.com/blog/controllable-character-generation/</guid>
-      <description>案例目标 可控人物生成，由我公司独立研发，可控人物生成，由我公司独立研发的可控内容生成服务，在仅给定一张参考图像，从单个参考图像生成具有各种姿</description>
+      <description>案例目标 虚拟试衣模特生成是基于我公司可控内容生成算法库开发，用于生成穿着目标服装并带有文本提示的定制角色，具有如下特点： 可控性：生成的模特会</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.pami-ai.com/blog/harmony-knowledge-base/</guid>
-      <description>案例介绍 鸿蒙开发知识库是由我公司独立研发，服务于鸿蒙开发教学的多媒体知识库平台。 案例效果 web端： 微信端： 案例介绍 该案例由如下部分组成 鸿蒙开</description>
+      <description>案例介绍 鸿蒙开发知识库基于我公司的多媒体知识库平台开发，使用大语言模型以及词嵌入的相关技术，实现了知识库维护、知识检索及问答的功能，具有如下</description>
     </item>
     
     <item>
